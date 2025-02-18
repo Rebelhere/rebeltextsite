@@ -45,17 +45,12 @@ Accessible from the index page, the navigation bar includes links to:
    source env/bin/activate  # On Windows: env\Scripts\activate  
    ```  
 
-3. **Install dependencies:**  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-4. **Run the development server:**  
+3. **Run the development server:**  
    ```bash  
    python manage.py runserver  
    ```  
 
-5. **Access the site in your browser:**  
+4. **Access the site in your browser:**  
    Navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/).  
 
 ## Usage  
